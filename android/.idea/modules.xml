@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/myHobbyCourses.iml" filepath="$PROJECT_DIR$/.idea/modules/myHobbyCourses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/myHobbyCourses.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/myHobbyCourses.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1637594722/myHobbyCourses.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1637594722/myHobbyCourses.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1797626037/myHobbyCourses.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1797626037/myHobbyCourses.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1387552702/myHobbyCourses.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/1387552702/myHobbyCourses.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/27661584/myHobbyCourses.react-native-picker_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/27661584/myHobbyCourses.react-native-picker_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-86661049/myHobbyCourses.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-86661049/myHobbyCourses.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1593137118/myHobbyCourses.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/1593137118/myHobbyCourses.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1348818294/myHobbyCourses.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1348818294/myHobbyCourses.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1015366465/myHobbyCourses.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1015366465/myHobbyCourses.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

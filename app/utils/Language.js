@@ -1,0 +1,17 @@
+export default Language = {
+  signInButtonText: 'Sign in',
+  signUpButtonText: 'Sign up',
+  forgotText: 'Forgot Password ?',
+  collegeName: 'New Castle College - Balroom Dance',
+  tutor: 'Tutor: ',
+  tutorName: ' Neil Patel',
+  location: 'Location: ',
+  startDate: 'Start Date: ',
+  price: 'Price:              ',
+  sessions: 'Sessions:            ',
+  endDate: 'End Date: ',
+  batchSize: 'Batch Size: ',
+  courseOnSell: 'My Courses On Sale',
+  order: 'Order ID and Status:',
+  status: '  (Pending)',
+};
